@@ -1,0 +1,17 @@
+from,to,weight
+Chleo,Emma,3
+Chleo,Rikki,3
+Chleo,Luis,3
+Luis,Chleo,3
+Luis,Emma,2
+Luis,Rikki,2
+Emma,Chleo,3
+Emma,Rikki,3
+Emma,Luis,2
+Rikki,Luis,1
+Rikki,Emma,3
+Rikki,Chleo,3
+Charlotte,Luis,3
+Luis,Charlotte,2
+Zayn,Rikki,3
+Rikki,Zayn,3
